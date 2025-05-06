@@ -4,6 +4,7 @@ import "fmt"
 
 // An awesome way to print hello world in Go
 // Comment 1
+// Second comment
 func main() {
 	print_hello()
 	print_something()
