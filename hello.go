@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // An awesome way to print hello world in Go
+// commit to delete unwanted branches
 
 func main() {
 	print_hello()
