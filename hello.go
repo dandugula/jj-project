@@ -6,6 +6,7 @@ import "fmt"
 
 func main() {
 	print_hello()
+	print_something()
 	print_goodbye()
 }
 
@@ -13,6 +14,10 @@ func main() {
 func print_hello() {
 	fmt.Println("Hello World!")
 	fmt.Println("Goodbye World!")
+}
+
+func print_something() {
+	fmt.Println("Something else")
 }
 
 // Print goodbye
