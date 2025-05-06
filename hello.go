@@ -20,6 +20,10 @@ func print_something() {
 	fmt.Println("Something else")
 }
 
+func print_something() {
+	fmt.Println("Something else")
+}
+
 // Print goodbye
 func print_goodbye() {
 	fmt.Println("Goodbye World!")
